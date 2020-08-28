@@ -1,7 +1,7 @@
 # expiration-tracker 
 
 
-# Desciption
+# Description
 This project allows a user to input product descriptions and expirations.
 This project enables users to retrive upcoming expirations.
 
